@@ -1,0 +1,19 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# PIO Files
+.pio
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+.pio
+
+# Binary Files
+*.zip
+
+# PCB Files
+fp-info-cache
